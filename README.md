@@ -55,7 +55,9 @@ One important note. Getting a project ready in ~13 weeks is **difficult**, and *
 
 # Some topics of interest
 
-Reach out to me if you want literature recommendations on any of this.
+This list is supposed to expand as I think of things. It is not exhaustive. Students can pick any topic in Economics of their choosing. 
+
+Reach out to me if you want literature recommendations on any of the below.
 
 - The 2010s era of low interest rates and its aftermath
   + Between 2010-2021, most developed economies had generally low risk-free rates. States and large corporations with "good credit" were able to issue debt (even long-term) at very little cost.
