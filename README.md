@@ -86,7 +86,8 @@ The two big names here are [Mendeley](https://www.mendeley.com/) and [Zotero](ht
 
 ## Podcasts
 
-+ [*Econtalk*](https://www.econtalk.org/). This podcast features interviews with most big names in Economics, and goes back almost two decades (hence the period surrounding the 07-09 GFC/great recession). Just so you're aware: there's a bit of a libertarian/free-market advocacy subtext to the podcast. 
++ [*Econtalk*](https://www.econtalk.org/). This podcast features interviews with most big names in Economics, and goes back almost two decades (hence the period surrounding the 07-09 GFC/great recession). Given the enormous number of episodes, I suggested going to the list of guests and searching for some names you may be familiar with (e.g., Piketty, Chetty, Saez, Friedman, Lucas, etc.). 
+  Just so you're aware: there's a bit of a libertarian/free-market advocacy subtext to the podcast. 
 
 + [*Macro musings*](https://www.mercatus.org/macro-musings). More "technical", focused on macroeconomics and featuring many episodes on Fed policy, recent financial crises, the "plumbing" of the financial system. Most episodes will be linked to specific reports and research pieces and can be a good source for presentation topics.
 
