@@ -30,7 +30,7 @@
 
 - Each class will feature presentations from groups. 
 - The natural progression is to start presenting the existing literature related to your topic of interest, and gradually transition to your own research idea and what you have done so far to addres it.
-- Details on presentations will depend on the final number of groups. Please be patient while I finalize this.
+- Details on presentations, such as how long each one will be, and how frequently each group will present, will depend on the final number of groups. Please be patient while I finalize this.
 
 ## Project discussion 
 The final deliverable for this course is a write-up of your project. A submission will:
