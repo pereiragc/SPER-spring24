@@ -96,3 +96,10 @@ The two big names here are [Mendeley](https://www.mendeley.com/) and [Zotero](ht
 ## Finding research papers
 
 - [NBER working paper series](https://www.nber.org/papers). This is a good way to be on top of how academics are thinking of current issues. Many of these papers end up published in top academic journals. I sign up for weekly emails and I recommend all of you do it as well. 
+
+- [Google scholar](https://scholar.google.com). This is a great resource. Especially the "cited by" feature. Please familiarize yourself with google scholar if you haven't yet.
+
+
+## AI guidelines 
+
+TBA
