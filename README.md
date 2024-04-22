@@ -17,7 +17,7 @@
 - *Main deadlines*:
   1. Group formation: Friday, February 2nd
   2. [Project plan](#project-discussion): end of February
-  3. [Preliminary draft](#project-discussion): April 26th
+  3. [Preliminary draft](#project-discussion): ~~April 26th~~ May 3rd
   4. [Final submission](#project-discussion): May 14th, 2024
   
 - Late submissions for the final project will not be accepted.
@@ -52,6 +52,28 @@ Let's dissect these steps.
 
 
 One important note. Getting a project ready in ~13 weeks is **difficult**, and **you won't be able to "wing it"**. Please reach out to me if you're experiencing roadblocks. The earlier you do this, the more time we'll have to troubleshoot.
+
+## Final submission format 
+
+I would expect the average project to be 20-30 pages, but there is no strict requirement. Brevity is appreciated. I strongly advise against writing redundant content for the sake of adding pages.
+
+There is also no strict requirement for the structure, but I recommend following some variation of the below:
+
+1. An introduction outling: motivation, research question, data, methodology, results, etc.
+  + the main objective is to communicate the message of your project in a concise, yet sufficiently detailed way. 
+  + It should be appealing to a non-technical/non-expert reader.
+2. A literature review, explaining how your approach and results connect with prior findings, and what's your specific contribution.
+  + This section should be a "big picture" review, and not about specific numbers. Leave that to the discussion of your results.
+  + There is no preferred citation format, but be consistent.
+3. A description of your analysis
+  + In the case of empirical work, this should contain some information of the data you use. How did you collect it? Is it publicly available? Show some descriptive stats, tables, charts, etc. 
+  + You can get as technical as you want here, but if you prefer, you can also leave more technical parts to an appendix.
+4. A discussion of the results and interpretation of your analysis. Ideally, you will connect your findings to the extant literature.
+
+You can include a conclusion if you want. Sometimes it feels a bit like boilerplate (like the "this paper is structured as follows..." part), but it's ok to have it since some people seem to expect that.
+
+Again, this is all about having a compelling write-up: if you think following a different structure may communicate your work better, by all means, do that!
+  
 
 # Some topics of interest
 
